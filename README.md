@@ -18,6 +18,8 @@ Pricing tier: Free F0
 Create the resource and wait for deployment to complete, and then view the deployment details.
 When the resource has been deployed, go to it and under the Resource management node in the navigation pane, view its Keys and Endpoint page. You will need the endpoint and one of the keys from this page in the next procedure.
 
+https://learn.microsoft.com/en-us/users/aramradif-7293/achievements/wvb7kehn?ref=https%3A%2F%2Fwww.linkedin.com%2F
+
 --
 
 Aram Radif
